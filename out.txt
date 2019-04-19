@@ -1,0 +1,7 @@
+Node:a's pagerank is: 0.413382
+Node:b's pagerank is: 0.054457
+Node:c's pagerank is: 0.060468
+Node:d's pagerank is: 0.057995
+Node:e's pagerank is: 0.037324
+Node:f's pagerank is: 0.376374
+Total PR:1
